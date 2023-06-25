@@ -4,3 +4,7 @@
 1+10
 #resta 
 25-30
+#multipicación
+5*15
+#división 
+5/2
